@@ -62,10 +62,6 @@ async function checkWeather(city) {
         case 'Haze':
             weather_img.src = "/mist.jpg";
             break;
-        default:
-           
-            
-            break;
     }
     
 }
